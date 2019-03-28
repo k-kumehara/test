@@ -1,6 +1,6 @@
 # Sound xR SDK
 
-Sound xR SDK は、ヤマハ株式会社が提供する音のxR体験ソリューション Sound xR の開発者用 SDK です。
+Sound xR SDK は、ヤマハ株式会社が提供する音のxR体験ソリューション Sound xR™ の開発者用 SDK です。
 
 ## プラットフォーム
 
