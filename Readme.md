@@ -29,10 +29,10 @@ Sound xR SDK は、ヤマハ株式会社が提供する音のxR体験ソリュ�
     * サンプリング周波数 48kHz 固定
 
 ## API reference
-Unity API - see the [API reference](platforms/unity/Assets/SoundXR/Docs/.API/html/index.html) page.
+Unity API - see the [API reference](platforms/unity/Assets/SoundXR/Docs/.API/html/index.html){:target="_blank"} page.
 
 ## Tutorial
-Unity Tutorial - see the [Tutorial](platforms/unity/Assets/SoundXR/Docs/.Tutorial/Tutorial.md){:target="_blank"} file.
+Unity Tutorial - see the [Tutorial](platforms/unity/Assets/SoundXR/Docs/.Tutorial/Tutorial.md) file.
 
 ## Authors
 * [Kazuya Kumehara](kazuya.kumehara@music.yamaha.com) - *Initial work*
