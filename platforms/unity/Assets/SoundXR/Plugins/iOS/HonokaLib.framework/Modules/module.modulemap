@@ -1,0 +1,6 @@
+framework module HonokaLib {
+  umbrella header "HonokaLib.h"
+
+  export *
+  module * { export * }
+}

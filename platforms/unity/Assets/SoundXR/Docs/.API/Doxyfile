@@ -1,0 +1,38 @@
+# Doxyfile 1.8.15
+
+
+PROJECT_NAME           = "Sound xR SDK for Unity API Reference"
+
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+
+HTML_EXTRA_STYLESHEET  = DoxyExtra.css
+
+STRIP_FROM_PATH        = ../../../../
+
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_METHODS  = YES
+
+HIDE_SCOPE_NAMES       = YES
+
+SHOW_NAMESPACES        = NO
+
+INPUT                  = \
+	../.. \
+	../.API \
+	../.Tutorial 
+
+RECURSIVE              = YES
+
+EXCLUDE                = \
+	../../Examples/SpatializedAudio/ \
+	../../Editor/ \
+	../../Plugins/AudioPluginViReal.bundle/ \
+	../../Plugins/Android/ \
+	../../Plugins/iOS/
+
+IMAGE_PATH             = \
+	../.Tutorial/
+
+ALPHABETICAL_INDEX     = NO

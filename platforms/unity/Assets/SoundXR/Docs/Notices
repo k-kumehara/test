@@ -1,0 +1,15 @@
+we use the following third party software;
+
+--------------------------------
+Unity NativeAudioPlugins
+--------------------------------
+version : 0x010402
+url : https://bitbucket.org/Unity-Technologies/nativeaudioplugins
+licenses : MIT (https://choosealicense.com/licenses/mit/)
+
+applies to:
+../Plugins/Android/libs/armeabi-v7a/libAudioPluginViReal.so
+../Plugins/AudioPluginViReal.bundle
+../Plugins/iOS/libAudioPluginViReal.a
+../Plugins/x86/AudioPluginViReal_x86.dll
+../Plugins/x86_64/AudioPluginViReal.dll
